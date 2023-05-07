@@ -1,0 +1,23 @@
+path: 'C:/Users/MSI 1/Desktop/Fashion'
+train: ./data/images/train
+val: ./data/images/val
+
+# number of classes
+nc: 13
+
+# Class names
+names: [
+'short sleeve top',
+'long sleeve top',
+'short sleeve outwear',
+'long sleeve outwear',
+'vest',
+'sling',
+'shorts',
+'trousers',
+'skirt',
+'short sleeve dress',
+'long sleeve dress',
+'vest dress',
+'sling dress'
+]
